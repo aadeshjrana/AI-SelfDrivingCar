@@ -43,7 +43,7 @@ As shown in the screenshot:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/self-driving-car-simulation.git
+   git clone https://github.com/aadeshjrana/Ai-SelfDrivingCar.git
    ```
 2. Open the `index.html` file in your web browser.
 
